@@ -1,4 +1,4 @@
-﻿#1. RockPaperScissor
+﻿1. RockPaperScissor
 
 2. Clock
 
