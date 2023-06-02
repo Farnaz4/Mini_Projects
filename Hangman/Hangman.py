@@ -32,6 +32,7 @@ def play(word):
                 indices = [i for i, letter in enumerate(word) if letter == guess]
         
         elif len(guess) == len(word) and guess.isalpha():
+            
 
         else:
             print("Not a valid guess.")
